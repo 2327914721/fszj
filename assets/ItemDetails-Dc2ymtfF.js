@@ -1,0 +1,1 @@
+import{d as e,c as t,o as s,_ as a}from"./index-CeX8cVBj.js";const c={class:"ItemDetails"},o=e({name:"ItemDetails",__name:"ItemDetails",setup(_){return(n,m)=>(s(),t("div",c," 我是ItemDetails "))}}),l=a(o,[["__scopeId","data-v-bcd5d99c"]]);export{l as default};

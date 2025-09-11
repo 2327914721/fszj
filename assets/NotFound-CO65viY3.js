@@ -1,0 +1,1 @@
+import{d as o,c as n,a as t,o as a}from"./index-CeX8cVBj.js";const u=o({name:"NotFound",__name:"NotFound",setup(r){return(s,e)=>(a(),n("div",null,e[0]||(e[0]=[t("h1",null,"我是404页面",-1)])))}});export{u as default};
